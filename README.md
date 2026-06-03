@@ -5,8 +5,8 @@
 <div align="center"> <img src="https://i.imgur.com/xn18HzJ.png" alt="OFRAT"> </div>
 One file rules all targets!
 
-## Warning
-This is an experimental project and API can be changed in the future. You can use it, but it's not recommended.
+> [!WARNING]
+> This is an experimental project and API can be changed in the future. You can use it, but it's not recommended.
 
 ## The situation
 
